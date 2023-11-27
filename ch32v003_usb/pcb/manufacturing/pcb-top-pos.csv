@@ -1,0 +1,4 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J1","USB_A","USB_A_Horizontal",148.375000,-99.450000,0.000000,top
+"R1","1k5","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",133.800000,-96.850000,-90.000000,top
+"ch32v003f4p6","~","SSOP-20_4.4x6.5mm_P0.65mm",128.274999,-99.450000,-90.000000,top

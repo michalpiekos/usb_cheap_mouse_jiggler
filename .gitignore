@@ -1,3 +1,9 @@
+# Custom
+.vscode/
+build/
+pcb-backups/
+**/manufacturing/*.zip
+
 # Prerequisites
 *.d
 

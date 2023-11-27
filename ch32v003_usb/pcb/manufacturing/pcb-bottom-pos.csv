@@ -1,0 +1,4 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","10u","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",134.300000,-99.300000,-90.000000,bottom
+"C2","10u","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",125.750000,-97.850000,-90.000000,bottom
+"U1","HT7333","SOT-89-3_Handsoldering",130.300000,-98.700000,90.000000,bottom
